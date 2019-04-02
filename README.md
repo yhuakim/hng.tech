@@ -7,6 +7,7 @@
 </div>
 
 # Installation Guide
+
 ```bash
 git clone https://github.com/hnginternship5/hng.tech.git
 ```
@@ -21,4 +22,9 @@ Visit localhost:8000 in your browser
 ```
 
 # Contribution Guide
+
+```bash
+git checkout staging
+```
+
 ...
