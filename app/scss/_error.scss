@@ -1,0 +1,80 @@
+.error-page {
+    background-image: url("../img/error-page.svg");
+    min-height: 600px;
+    height: 100vh;
+
+    @include small-screens {
+        min-height: 100vh;
+    }
+}
+
+.error-page-container {
+    margin-top: 15rem;
+
+    h1 {
+        font-size: 35px;
+        line-height: 1.5;
+        max-width: 50%;
+        // margin: 0 auto;
+        // text-align: center;
+    }
+
+    h3, h4 {
+        line-height: 1.4;
+        max-width: 55%;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    @include small-screens {
+        margin-top: 0rem;
+        text-align: center;
+
+        h1,h3,h4 {
+            max-width: 80%;
+            margin: 1rem auto;
+        }
+ 
+        h1 {
+            font-size: 28px; 
+        }
+
+        h3, h4 {
+            font-size: 18px;
+        }
+    }
+
+    @include medium-screens {
+        margin-top: 4rem; 
+
+        h1,h3,h4 {
+            max-width: 70%;
+
+        }
+    }
+}
+
+.error-page-btn {
+    display: block;
+    background-color: #00aeff;
+    width: 150px;
+    height: 50px;
+    color: #ffffff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    transition: background-color 0.3s ease-in-out;
+
+    &:hover {
+        color: white;
+        background-color: darken(#00aeff, 10%);
+    }
+}

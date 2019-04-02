@@ -1,0 +1,68 @@
+.ladytoon-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+}
+.bag-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+}
+.intern-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+}
+.hijab-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+}
+.cto-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+}
+.bluecamo-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+  @include phone-landscape {
+  display: none;
+}
+ @include tablet-portrait {
+  display: none;
+}
+ @include desktop {
+  display: none;
+}
+}
+.office-hidden-phone{
+  @include phone-only {
+    display: none;
+}
+  @include phone-landscape {
+  display: none;
+}
+@include tablet-portrait {
+  display: none;
+}
+}
+// }
+// .ladytoon-visible-phone{
+//   @include phone-landscape {
+//   display: none;
+// }
+//   @include tablet-portrait {
+//     display: none;
+//   }
+//   @include desktop {
+//     display: none;
+// }
+//   @include desktop-up {
+//   display: none;
+// }
+//   @include large-desktop {
+//   display: none;
+//   }
+// }
