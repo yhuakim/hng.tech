@@ -1,0 +1,21 @@
+#!/bin/bash
+
+## Check for changed files
+changed=$(git diff --cached --name-only)
+
+## allow if no file changed
+if [ -z "$changed" ]
+then
+    exit 0
+fi
+
+## Search for conflict markers with xargs
+echo $changed | xargs egrep '[><]{7}' -H -I --line-number
+
+## If the egrep command exit with non-zero status.
+## prevent commit and displays warning
+if [ $? == 0 ]
+then
+    echo "❌  WARNING: You have merge markers in the above files, lines. Fix 🛠 them before committing."
+    exit 1
+fi
