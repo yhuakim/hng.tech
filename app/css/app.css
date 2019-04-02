@@ -7,6 +7,18 @@
 
 @import url('current.css');
 
+::-webkit-scrollbar {
+	width: 6px;
+}
+
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #1593d0;
+}
 html, body {
   font-size: 10px;
   overflow-y: hidden; }
