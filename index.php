@@ -5,7 +5,7 @@
 		<title>The HNG Internship</title>
 		<link rel="stylesheet" href="app/css/app.css?version=1'" type="text/css"/>
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-	
+
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link rel="shortcut icon" type="image/png" href="app/img/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
 
   $request = $_SERVER['REQUEST_URI'];
 
-  if (strlen($request) > 1) { 
+  if (strlen($request) > 1) {
     $request = rtrim($request, '/');
   }
 
@@ -32,13 +32,16 @@
       case '/interns' :
           require __DIR__ . '/views/interns.php';
           break;
+      case '/interns/current' :
+          require __DIR__ . '/views/current.php';
+          break;
       case '/become-intern' :
           require __DIR__ . '/views/become-intern.php';
           break;
-      default: 
+      default:
           require __DIR__ . '/views/404.php';
           break;
   }
 ?>
-  
+
 </html>

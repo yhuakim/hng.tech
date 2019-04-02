@@ -5,7 +5,9 @@
 		<div class="container">
 			<header class="pi-header">
 				<h1 class="h1">Our Interns and the Impact They Have Made</h1>
-				<p class="h3">Our Interns & The Impact They Have Made</p>
+
+			<div class="container">
+					<a class="bi-btn primary-button" href="interns/current">View curent interns</a><br><br>
 			</header>
 
 			<section class="row pi-banner">
@@ -45,7 +47,7 @@
 							</article>
 						</div>
 
-					
+
 
 						<div class="pi-intern">
 							<figure>
@@ -161,7 +163,7 @@
 							<p>Paystack helps businesses in Africa get paid by anyone, anywhere in the world.</p>
 						</article>
 					</div>
-					
+
 				</div>
 
 				<div class="pi-partner">
@@ -250,7 +252,7 @@
 							<p>Paga's mission is to make it simple for people to access and use money. Paga is a leading payments and mobile money business.</p>
 						</article>
 					</div>
-					
+
 				</div>
 
 				<div class="pi-partner">
@@ -340,7 +342,7 @@
 							<p>At Paylater, you can get quick online loans without collateral, make bill payments, and invest money.</p>
 						</article>
 					</div>
-					
+
 				</div>
 
 				<div class="pi-partner">
@@ -432,7 +434,7 @@
 							<p>Start Innovation Hub Nigeria is an innovation lab in Uyo, Nigeria. We help technology startups with software and hardware ideas start up faster.</p>
 						</article>
 					</div>
-					
+
 				</div>
 
 			</div>
