@@ -46,5 +46,5 @@ case '/interns/mark' :
 - Push to `staging` branch and open a pull request
 - Wait for review
 
-*Ensure you read this doc [here](https://docs.google.com/document/d/1TxZqGLsut4ZVJEP6xF-DZGq3goaHfQ2phF-1I3YbrNc/edit?usp=sharing) for complete instructions*
+*Ensure you read this doc [here](https://docs.google.com/document/d/1TxZqGLsut4ZVJEP6xF-DZGq3goaHfQ2phF-1I3YbrNc/edit?usp=sharing) for complete instructions* <br>
 Failure to do this will warant closing your pull request
