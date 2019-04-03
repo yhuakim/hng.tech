@@ -3,7 +3,8 @@
 # get changed file count
 count=$(git diff --cached --numstat | wc -l)
 
-if [ "$count" == "1" ]; then
+if [ "$count" == 1 ]
+then
     echo "Success!"
     exit 0
 fi
