@@ -60,6 +60,9 @@
       case '/interns/mayflower' :
           require __DIR__ . '/views/interns/mayflower.php';
           break;
+      case '/interns/chiaju' :
+          require __DIR__ . '/views/interns/chiaju.php';
+      break;
      case '/interns/hackthievist' :
           require __DIR__ . '/views/hackthievist.php';
           break;
