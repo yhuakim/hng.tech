@@ -29,7 +29,7 @@
                             <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-smiling_lpxxsb.png”>
                             <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-smiling_lpxxsb.png”>
                             </br></br>That’s quite opposite of me, If the froentend ain’t cool, I won’t leave it.
-                            I prefer to get my interface beautiful before I begin work on backend.
+                            I prefer to get my interface beautiful before I begin work on backend..
 
 </p>
                         <h6>Skills</h6>
