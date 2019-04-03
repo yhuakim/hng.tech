@@ -31,7 +31,9 @@
   if (strlen($request) > 1) {
     $request = rtrim($request, '/');
   }
+
   $view = $router->match($request);
+  
   require $view;
 ?>
 
