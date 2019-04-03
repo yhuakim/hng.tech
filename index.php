@@ -20,6 +20,10 @@
   }
 
   switch ($request) {
+    case '/interns/codetillamgone' :
+        require __DIR__ . '/views/interns/codetillamgone.php';
+        break;
+
       case '/' :
           require __DIR__ . '/views/index.php';
           break;
@@ -54,22 +58,6 @@
           break;
       case '/interns/test' :
           require __DIR__ . '/views/interns/test.php';
-          break;
-      case "/interns/somtozech":
-          require __DIR__ . '/views/somtozech.php';
-      case '/interns/mayflower' :
-          require __DIR__ . '/views/interns/mayflower.php';
-          break;
-      case '/interns/chiaju' :
-          require __DIR__ . '/views/interns/chiaju.php';
-      break;
-     case '/interns/hackthievist' :
-          require __DIR__ . '/views/hackthievist.php';
-          break;
-      case '/interns/mercyikpe' :
-          require __DIR__ . '/views/interns/mercyikpe.php';
-      case '/interns/aniebiet' :
-          require __DIR__ . '/views/interns/aniebiet.php';
           break;
       default:
           require __DIR__ . '/views/404.php';
