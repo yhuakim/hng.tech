@@ -8,6 +8,8 @@
 
 # Installation Guide
 
+- You need a server, download [Wamp](http://www.wampserver.com/en/) or [Xampp](https://www.apachefriends.org/index.html)
+- 
 ```bash
 git clone https://github.com/hnginternship5/hng.tech.git
 ```
