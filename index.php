@@ -20,6 +20,10 @@
   }
 
   switch ($request) {
+    case '/interns/codetillamgone' :
+        require __DIR__ . '/views/interns/codetillamgone.php';
+        break;
+
       case '/' :
           require __DIR__ . '/views/index.php';
           break;
