@@ -7,7 +7,7 @@
 				<h1 class="h1">My Page</h1>
 	  </header>
 	  <h1>I am an intern. My name is Akinwunmi</h1>
-</body>
+	</body>
 
 	<?php include 'partials/footer.php';?>
 </html>
