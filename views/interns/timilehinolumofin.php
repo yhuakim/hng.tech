@@ -12,7 +12,7 @@
         <div class="col-md-12 col-sm-6 col-xs-12">
           <div class="col-md-6 col-xs-12">
             <div class="intern-block border-blue">
-              <img src="https://res.cloudinary.com/alphex-code-ltd/image/upload/c_scale,h_443,w_500/v1554312545/profile_pic.jpg" alt="Timilehin Olumofin">
+              <img src="https://res.cloudinary.com/alphex-code-ltd/image/upload/v1554317230/edit_profile_2.jpg" alt="Timilehin Olumofin">
               <h6>Timilehin Olumofin</h6>
               <p>Full-stack Developer</p>
               <ul class="list">
