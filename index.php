@@ -36,23 +36,28 @@
       case '/interns' :
           require __DIR__ . '/views/interns.php';
           break;
+      case '/interns/richard' :
+          require __DIR__ . '/views/interns/richard.php';
+          break;
       case '/interns/current' :
           require __DIR__ . '/views/current.php';
           break;
           case '/become-intern' :
           require __DIR__ . '/views/become-intern.php';
           break;
+        case '/intern/Akin' :
+          require __DIR__ . '/views/Akin.php';
       case '/interns/template' :
           require __DIR__ . '/views/interns/template.php';
           break;
+      case '/interns/iamserver' :
+          require __DIR__ . '/views/interns/iamserver.php';
+          break;
+        case '/interns/dammy' :
+          require __DIR__ . '/views/interns/dammy.php';
+          break;
       case '/interns/test' :
           require __DIR__ . '/views/interns/test.php';
-          break;
-      case '/interns/david' :
-          require __DIR__ . '/views/david.php';
-        break;
-      case '/interns/kowalatam' :
-          require __DIR__ . '/views/interns/kowalatam.php';
           break;
       default:
           require __DIR__ . '/views/404.php';
