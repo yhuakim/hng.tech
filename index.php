@@ -13,44 +13,34 @@
 
   <?php
 
+  require_once('router.php');
+
+  // We'll first create a router instance and then register our
+  // static routes with the router. Next, we'll try to parse the
+  //request url and match it against routes in the collection.
+  $router = new Router;
+
+  // Add the static routes
+  $router->add([
+      '/' => 'index.php',
+      '/support' => 'support.php',
+      '/about' => 'about.php',
+      '/interns' => 'interns.php',
+      '/interns/current' => 'current.php',
+      '/become-intern' => 'become-intern.php',
+      '/template' => 'interns/template.php',
+      '/test' => 'interns/test.php'
+  ]);
+
   $request = $_SERVER['REQUEST_URI'];
 
   if (strlen($request) > 1) {
     $request = rtrim($request, '/');
   }
 
-  switch ($request) {
-      case '/' :
-          require __DIR__ . '/views/index.php';
-          break;
-      case '/support' :
-          require __DIR__ . '/views/support.php';
-          break;
-      case '/about' :
-          require __DIR__ . '/views/about.php';
-          break;
-      case '/interns' :
-          require __DIR__ . '/views/interns.php';
-          break;
-      case '/interns/current' :
-          require __DIR__ . '/views/current.php';
-          break;
-          case '/become-intern' :
-          require __DIR__ . '/views/become-intern.php';
-          break;
-      case '/interns/template' :
-          require __DIR__ . '/views/interns/template.php';
-          break;
-      case '/interns/test' :
-          require __DIR__ . '/views/interns/test.php';
-          break;
-      case '/interns/kowalatam' :
-          require __DIR__ . '/views/interns/kowalatam.php';
-          break;
-      default:
-          require __DIR__ . '/views/404.php';
-          break;
-  }
+  $view = $router->match($request);
+
+  require $view;
 ?>
 
 </html>
