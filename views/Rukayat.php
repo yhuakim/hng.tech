@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/rukayat/image/upload/v1554319621/rukayat.jpg" alt="Mark Essien">
                         <h6>Rukayat Issa</h6>
                         <p>Front-End Developer</p>
                         <ul class="list">
