@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/chiaju/image/upload/v1554310968/pix_1.jpg" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/chiaju/image/upload/v1554310968/pix_1.jpg" alt="Chiaju Chinedu">
                         <h6>Chiaju Chinedu Ndudi</h6>
                         <p>Back-end Engineer</p>
                         <ul class="list">
