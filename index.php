@@ -35,11 +35,16 @@
       case '/interns/current' :
           require __DIR__ . '/views/current.php';
           break;
-      case '/become-intern' :
+          case '/become-intern' :
           require __DIR__ . '/views/become-intern.php';
           break;
         case '/intern/Akin' :
-          require __DIR__ . '/views/akin.php';
+          require __DIR__ . '/views/Akin.php';
+      case '/interns/template' :
+          require __DIR__ . '/views/interns/template.php';
+          break;
+      case '/interns/test' :
+          require __DIR__ . '/views/interns/test.php';
           break;
       default:
           require __DIR__ . '/views/404.php';
