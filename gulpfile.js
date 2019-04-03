@@ -13,7 +13,7 @@ gulp.task('sass', function () {
 	.pipe(gulp.dest('app/css'));
 });
 
-gulp.task('minify-css', () => {
+gulp.task('minify-css', function() {
 	return gulp.src('app/css/app.css')
 	.pipe(rename({suffix: '.min'}))
 	.pipe(cleanCSS({debug: true}, (details) => {
