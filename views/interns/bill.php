@@ -1,8 +1,8 @@
 <html>
-<?php include 'partials/header.php'; ?>
+<?php include 'partials/header.php';?>
 
 <body class=" pi">
-    <?php include 'partials/navbar.php'; ?>
+    <?php include 'partials/navbar.php';?>
     <section class="main-section">
         <div class="container">
             <div class="row">
@@ -34,6 +34,6 @@
         </div>
     </section>
 </body>
-<?php include 'partials/footer.php'; ?>
+<?php include 'partials/footer.php';?>
 
 </html>
