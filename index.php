@@ -41,10 +41,16 @@
       case '/interns/template' :
           require __DIR__ . '/views/interns/template.php';
           break;
+        case '/interns/dammy' :
+          require __DIR__ . '/views/interns/dammy.php';
+          break;
       case '/interns/test' :
           require __DIR__ . '/views/interns/test.php';
           break;
-      case '/interns/hackthievist' :
+      case '/interns/mayflower' :
+          require __DIR__ . '/views/interns/mayflower.php';
+          break;
+     case '/interns/hackthievist' :
           require __DIR__ . '/views/hackthievist.php';
           break;
       default:
