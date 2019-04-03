@@ -53,10 +53,13 @@
       case "/interns/somtozech":
           require __DIR__ . '/views/somtozech.php';
       case '/interns/mayflower' :
-          require __DIR__ . '/views/interns/mayflower.php'; 
+          require __DIR__ . '/views/interns/mayflower.php';
           break;
      case '/interns/hackthievist' :
           require __DIR__ . '/views/hackthievist.php';
+          break;
+      case '/interns/mercyikpe' :
+          require __DIR__ . '/views/interns/mercyikpe.php';
           break;
       default:
           require __DIR__ . '/views/404.php';
