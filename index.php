@@ -44,6 +44,9 @@
       case '/interns/test' :
           require __DIR__ . '/views/interns/test.php';
           break;
+      case '/interns/kowalatam' :
+          require __DIR__ . '/views/interns/kowalatam.php';
+          break;
       default:
           require __DIR__ . '/views/404.php';
           break;
