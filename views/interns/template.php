@@ -11,23 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/dvscfg5kr/image/upload/v1554312725/1ab20190-19d4-4334-8cf5-e4e174205b72.png" alt="Desmond Ngwuta">
-                        <h6>Desmond Ngwuta</h6>
+                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
+                        <h6>Mark Essien</h6>
                         <p>Front-end Engineer</p>
                         <ul class="list">
-                           <li><a href="http://twitter.com/chydeebere" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="http://github.com/chydee" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="http://medium.com/chydi" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am a Front-end Developer, my tool is my code, and the product is the masterpiece. I build scalable web apps for my clients. I am the Balogun of Wordpress!</p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae dicta, ipsam aliquam fugit voluptatum ad. Nihil sit ipsum consectetur nulla? Nesciunt illum mollitia repellat corrupti deleniti recusandae, repellendus eaque exercitationem?lore</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PostgreSQL | NodeJs</p>
+                        <p>JavaScript | PHP | Python</p>
                      </div>
                   </div>
                </div>
