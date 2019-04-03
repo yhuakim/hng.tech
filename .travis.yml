@@ -1,5 +1,4 @@
 language: node_js
-sudo: false
 node_js:
   - "node"
 
@@ -13,4 +12,4 @@ cache:
 
 before_script:
   - npm install -g gulp-cli
-script: gulp files_changed
+script: gulp file_changes
