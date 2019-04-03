@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/stefanpgr/image/upload/v1554333025/28072e67-874e-487c-95e1-d453385ec979_2.png" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/stefanpgr/image/upload/v1554333025/stefan.png" alt="Mark Essien">
                         <h6>Daniel Agoziem</h6>
                         <p>Back-end Engineer</p>
                         <ul class="list">
