@@ -21,7 +21,7 @@
                  <li><a href="https://github.com/bolah2009/" target="_blank"<i class="fab fa-github"></i></a></li>
                  <li><a href="https://medium.com/@bolah2009/" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="../intern/bolah2009" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
