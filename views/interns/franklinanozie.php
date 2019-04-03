@@ -11,7 +11,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/franklinanozie/image/upload/v1554321149/IMG_0028.jpg" alt="Anozie Franklin">
+                        <img src="https://res.cloudinary.com/franklinanozie/image/upload/v1554324645/franklinanozie.jpg" alt="Anozie Franklin Chidiebere">
                         <h6>Anozie Franklin Chidiebere</h6>
                         <p>Front-end Developer</p>
                         <ul class="list">
