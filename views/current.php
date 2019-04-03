@@ -13,13 +13,13 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/about-talent-bola.svg" alt="">
+     					  <h6>Bola Ahmed Buari</h6>
+                 <p>A front-end developer and HNG Internship 5 participant</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/bolah2009" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/bolah2009/" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@bolah2009/" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
      					    <a href="#" class="btn-view">view profile</a>
      				</div>
