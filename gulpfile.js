@@ -3,7 +3,7 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var rename = require ('gulp-rename');
-var cleanCSS = require('gulp-clean-css');
+let cleanCSS = require('gulp-clean-css');
 var exec = require('child_process').exec;
 
 //compile
@@ -13,12 +13,12 @@ gulp.task('sass', function () {
 	.pipe(gulp.dest('app/css'));
 });
 
-gulp.task('minify-css', function() {
+gulp.task('minify-css', () => {
 	return gulp.src('app/css/app.css')
 	.pipe(rename({suffix: '.min'}))
-	.pipe(cleanCSS({debug: true}, function (details) {
-		console.log(details.name + ": " + details.stats.originalSize);
-		console.log(details.name + ": " + details.stats.minifiedSize);
+	.pipe(cleanCSS({debug: true}, (details) => {
+		console.log(`${details.name}: ${details.stats.originalSize}`);
+		console.log(`${details.name}: ${details.stats.minifiedSize}`);
 	}))
 	.pipe(gulp.dest('app/css'));
 });
