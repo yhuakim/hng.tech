@@ -15,6 +15,7 @@
 git clone https://github.com/hnginternship5/hng.tech.git
 ```
 **If you have not been added to the organization, kindly work in your forked repository and open a pull request here** <br>
+![](https://www.youtube.com/watch?v=G1I3HF4YWEw)
 **Read [this](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) for more help**
 
 ```bash
