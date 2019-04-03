@@ -17,8 +17,8 @@ gulp.task('minify-css', function() {
 	return gulp.src('app/css/app.css')
 	.pipe(rename({suffix: '.min'}))
 	.pipe(cleanCSS({debug: true}, function (details) {
-		console.log(`${details.name}: ${details.stats.originalSize}`);
-		console.log(`${details.name}: ${details.stats.minifiedSize}`);
+		console.log(details.name + ": " + details.stats.originalSize);
+		console.log(details.name + ": " + details.stats.minifiedSize);
 	}))
 	.pipe(gulp.dest('app/css'));
 });
