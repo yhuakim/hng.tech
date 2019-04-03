@@ -10,14 +10,13 @@
 
 - You need a server, download [Wamp](http://www.wampserver.com/en/) or [Xampp](https://www.apachefriends.org/index.html)
 - Clone this repository into `htdocs` of `www` folder in your respective servers.
-
-```bash
-git clone https://github.com/hnginternship5/hng.tech.git
-```
 **If you have not been added to the organization, kindly work in your forked repository and open a pull request here** <br>
 
 **Read [this](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) or watch [this](https://www.youtube.com/watch?v=G1I3HF4YWEw) for more help**
 
+```bash
+git clone https://github.com/hnginternship5/hng.tech.git
+```
 ```bash
 cd hng.tech
 ```
