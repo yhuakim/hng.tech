@@ -67,7 +67,7 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      			<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
+     					<img src="../app/img/akin.jpeg" alt="">
                <h6>Akinwunmi Aguda</h6>
                  <p>HNG intern</p>
                   <ul class="list">
