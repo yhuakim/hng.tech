@@ -15,8 +15,8 @@
                         <h6>Uyo-obong Akpan</h6>
                         <p>Back-end Engineer</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://twitter/legendary_jnr" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/uyo-obong" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
                            <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
