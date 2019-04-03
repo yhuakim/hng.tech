@@ -7,7 +7,6 @@
 				<h1 class="h1">Our Interns and the Impact They Have Made</h1>
 
 			<div class="container">
-					<a class="bi-btn primary-button" href="interns/current">View curent interns</a><br><br>
 			</header>
 
 			<section class="row pi-banner">
