@@ -1,4 +1,9 @@
 language: node_js
+
+branches:
+  only:
+  - staging
+
 before_script:
   - npm install -g gulp-cli
 script: gulp files_changed
