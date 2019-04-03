@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # get changed file count
-count=$(git whatchanged -1 --format=oneline | wc -l)
+count=$(git whatchanged -1 --format=oneline | grep "^:" | wc -l)
 
 
 if [ "$count" == 1 ]
