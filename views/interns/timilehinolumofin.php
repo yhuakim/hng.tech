@@ -12,7 +12,7 @@
         <div class="col-md-12 col-sm-6 col-xs-12">
           <div class="col-md-6 col-xs-12">
             <div class="intern-block border-blue">
-              <img src="https://res.cloudinary.com/alphex-code-ltd/image/upload/c_scale,w_500/v1554311303/profile_pic.jpg" alt="Timilehin Olumofin">
+              <img src="https://res.cloudinary.com/alphex-code-ltd/image/upload/c_scale,h_443,w_500/v1554312545/profile_pic.jpg" alt="Timilehin Olumofin">
               <h6>Timilehin Olumofin</h6>
               <p>Full-stack Developer</p>
               <ul class="list">
@@ -25,7 +25,9 @@
           <div class="col-md-6 col-xs-12 align-items-center">
             <div class="intern-bio border-blue">
               <h6>About me</h6>
-              <p>I'm a student of the University of Lagos studying Computer Science while freelancing as a Full-stack developer. I love using Javascript & PHP.</p>
+              <p>I'm a music and game lover to the core.</p>
+              <p><b>Education</b>: Undergoing B.SC Program for Computer Science</p>
+              <p><b>Work</b>: I freelance as a Full-Stack Web Developer</p>
               <br />
               <h6>Skills</h6>
               <p>JavaScript | PHP</p>
