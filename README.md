@@ -39,12 +39,6 @@ The template for your profile page can be found here
 - Copy the contents of that file
 - Create a new file with your slack username, e.g `mark.php`
 - Paste the contents there
-- Navigate to `index.php` in root and add your URL path before `404.php`
-```php
-case '/interns/mark' :
-          require __DIR__ . '/views/interns/mark.php';
-          break;
-```
 - Now your page should be assesible via `localhost:8000/interns/mark`
 ![hng profile](https://res.cloudinary.com/iambeejayayo/image/upload/v1554302765/download.png)
 - Edit the contents of the file to your profile details
