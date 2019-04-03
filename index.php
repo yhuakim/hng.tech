@@ -32,6 +32,9 @@
       case '/interns' :
           require __DIR__ . '/views/interns.php';
           break;
+      case '/interns/richard' :
+          require __DIR__ . '/views/interns/richard.php';
+          break;
       case '/interns/current' :
           require __DIR__ . '/views/current.php';
           break;
