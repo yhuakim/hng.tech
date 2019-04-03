@@ -11,9 +11,9 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://scontent.flos5-1.fna.fbcdn.net/v/t1.0-9/52634582_2089927074448870_4475630426676789248_n.jpg?_nc_cat=107&_nc_eui2=AeErlrMG5sqekcIVo4tMhHmiXxTEH5Xn_h8F5IEZJLicx0XL5jkp42DNdBCgj3nO-WYN4WNIoICasBC8NxQHSUBk9wkNoyfHcGZWMibT0lXx_Q&_nc_ht=scontent.flos5-1.fna&oh=aaae0de6b0ca41d2a0b1f6b657b4fc18&oe=5D36E19F" alt="Egbeyemi Oladayo">
+                        <img src="https://res.cloudinary.com/iamserver/image/upload/v1554307449/52634582_2089927074448870_4475630426676789248_n_suucdv.jpg" alt="Egbeyemi Oladayo">
                         <h6>Egbeyemi Oladayo</h6>
-                        <p>Backend Developer Engineer</p>
+                        <p>Backend Developer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/iamserverr" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/DateTech" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
