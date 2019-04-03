@@ -53,6 +53,9 @@
       case '/interns/mayflower' :
           require __DIR__ . '/views/interns/mayflower.php';
           break;
+     case '/interns/hackthievist' :
+          require __DIR__ . '/views/hackthievist.php';
+          break;
       default:
           require __DIR__ . '/views/404.php';
           break;
