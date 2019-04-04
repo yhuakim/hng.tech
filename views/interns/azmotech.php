@@ -24,7 +24,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am Moses Aizee, a graduate of Mathematics/Computer Science from the University of Portharcourt. 
+                        <p>I am Moses Aizee, a graduate of Mathematics and Computer Science from the University of Portharcourt. 
                          I am passionate about problem-solving and contributing my little quota for the advancement of technology.
                         </p>
                         <br />
