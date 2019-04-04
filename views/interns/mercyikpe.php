@@ -21,14 +21,13 @@
                 <div class=“col-md-6 col-xs-12 align-items-center”>
                     <div class=“intern-bio border-blue”>
                         <h6>Hullo !! <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-user_female_skin_type_5_zhyrmf.png”></h6>
-                        <p>A backend guy once said he prefers spending time solving an
-                            unsolvable problem at backend than connectings dots on frontend
+                        <p>A backend guy once said he prefers spending time solving an unsolvable problem at backend than connectings dots on frontend
                                                      
                             <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-smiling_lpxxsb.png”>
                             <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-smiling_lpxxsb.png”>
                             <img src=“https://res.cloudinary.com/mercyikpe/image/upload/v1554280590/icons8-smiling_lpxxsb.png”>
-                            </br></br>That’s quite opposite of me, If the froentend ain’t cool, I won’t leave it.
-                            I prefer to get my interface beautiful before I begin work on backend...</p>
+                            </br></br>that’s quite opposite of me, if the froentend ain’t cool, I won’t leave it.
+                            I prefer to get my interface done before I begin work on backend...</p>
                         <h6>Skills</h6>
                         <p>JavaScript | NodeJs | VueJs</p>
                     </div>
