@@ -13,7 +13,7 @@
                      <div class="intern-block border-blue">
                         <img src="https://res.cloudinary.com/ephaig/image/upload/v1554326501/cropped.png" alt="Ephraim Aigbefo">
                         <h6>Ephraim Aigbefo</h6>
-                        <p>Back-end Engineer</p>
+                        <p>Full Stack Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/AigbefoEphraim" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/EphraimDev" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
