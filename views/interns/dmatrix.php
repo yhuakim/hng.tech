@@ -24,7 +24,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p> I am full stack Developer, interested in creating tech solutions </p>
+                        <p> I am a full stack Developer, interested in creating tech solutions </p>
                         <br />
                         <h6>Skills</h6>
                         <p>Html | PHP | C++  </p>
