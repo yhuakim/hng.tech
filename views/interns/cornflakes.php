@@ -11,8 +11,8 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/dxvct9lse/image/upload/v1554314837/jerry.png" alt="Mark Essien">
-                        <h6>Jeremiah Chukwuka</h6>
+                        <img src="https://res.cloudinary.com/dxvct9lse/image/upload/v1554314837/jerry.png" alt="Chukwuka Jeremiah">
+                        <h6>Chukwuka Jeremiah</h6>
                         <p>Mobile and Front-End Engineer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/Iam_jaydean" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
@@ -24,7 +24,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Hey I am an activist in Mobile Development and Web Development. I code in JAVA, Kotlin and Php. </p>
+                        <p>Hey I am an activist in Mobile Development and Web Development. I code in JAVA, Kotlin and Php. I am focused on building web products that solve local and global challenges. I am very enthusiastic about learning new skills, technology and frameworks,</p>
                         <br />
                         <h6>Skills</h6>
                         <p>Java | PHP | Kotlin</p>
