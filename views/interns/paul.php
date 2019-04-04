@@ -24,7 +24,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm a tech ethusiast, a back-end developer, and a little bit of front-end skills i guess that makes me a fullstack web developer.</p>
+                        <p>I'm a tech enthusiast, a back-end developer, and a little bit of front-end skills i guess that make's me a fullstack web developer.</p>
                         <br />
                         <h6>Skills</h6>
                         <p>JavaScript | PHP | Golang</p>
